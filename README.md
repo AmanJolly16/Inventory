@@ -4,5 +4,5 @@ The following repository contains the code for Inventory Management implementing
 For now, we can add beds and oxyden, delete the beds and oxygen.
 
 
-https://inventory-sreelaya.herokuapp.com/ 
+https://inventory-aman.herokuapp.com/
 Please check this website to see the deployment of the website. (Compatible with Laptop Browsers)
